@@ -10,7 +10,7 @@
 ### The corresponding code for data collection is located innside the Data folder /Data/Source.
 
 #### Steps to Reproduce:
-#### Create environment using given yaml file
-#### Activate the environment 
-#### change the data to the location in your system. Accordinngly change tha path name.
-#### Finally run the ipynb (code.ipynb) to validate the results.
+1. Create environment using given yaml file
+2. Activate the environment 
+3. Change the data to the location in your system. According to change the path name accordingly.
+4. Finally, run the ipynb (code.ipynb) to validate the results.
