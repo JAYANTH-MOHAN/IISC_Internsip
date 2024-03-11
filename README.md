@@ -25,10 +25,9 @@
 
 ## To access jupyter lab in ssh machine 
 
-1.) Open a new termainl and run this :  "ssh -N -L 8889:localhost:8889 asrivastava@10.192.27.144"
-2.) Open a new terminal ssh into the machine and activate the env (conda activate rag) Then run this => 
+1. Open a new termainl and run this :  "ssh -N -L 8889:localhost:8889 asrivastava@10.192.27.144"
+2. Open a new terminal ssh into the machine and activate the env (conda activate rag) Then run this => 
     1.) conda install ipython 
     2.) pip install ipykernel
     3.) python -m ipykernel install --user --name=rag
-    
-
+3. Activate rag inside jupyterlab when running code.ipynb
