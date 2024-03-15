@@ -1,0 +1,13 @@
+ipython
+ipykernel
+llama-index==0.9.44
+langchain==0.1.5
+sqlalchemy==2.0.27
+pydantic==1.10.14
+transformers
+torch
+torchvision
+torchaudio
+bitsandbytes
+accelerate
+sentence-transformers
