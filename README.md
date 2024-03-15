@@ -23,6 +23,7 @@
     6. pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
     7. pip install bitsandbytes
     8. pip install accelerate
+    9. pip install sentence-transformers
   
       
 6. Change the data to the location in your system. Accordingly, change the path name.
